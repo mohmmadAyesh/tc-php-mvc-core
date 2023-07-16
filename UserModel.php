@@ -1,6 +1,10 @@
 <?php
-namespace app\Core;
-use app\Core\db\DBModel;
-abstract class UserModel extends DBModel{
-    abstract public function getDisplayName():string;
+
+namespace tco\phpmvc;
+
+use tco\phpmvc\db\DBModel;
+
+abstract class UserModel extends DBModel
+{
+    abstract public function getDisplayName(): string;
 }
