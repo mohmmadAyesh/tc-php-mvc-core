@@ -1,0 +1,15 @@
+{
+    "name": "tco/php-mvc-core",
+    "autoload": {
+        "psr-4": {
+            "Tco\\PhpMvcCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohmmad ayesh",
+            "email": "73184801+mohmmadAyesh@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
