@@ -2,7 +2,7 @@
     "name": "tco/php-mvc-core",
     "autoload": {
         "psr-4": {
-            "tco\\phpmvc": "."
+            "tco\\phpmvc\\": "."
         }
     },
     "authors": [
